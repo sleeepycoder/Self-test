@@ -4,7 +4,9 @@ const Bug = () => {
   return (
     <div>
       hi
-      <h1>nasme</h1>
+      <p>hello</p>
+      <p>hii</p>
+
     </div>
   )
 }
